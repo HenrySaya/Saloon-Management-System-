@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Program Files/NetBeans-16/netbeans/java/modules/ext/org-netbeans-modules-java-j2seembedded-probe.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/jasperreports-6.3.0.jar/jasperreports-6.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/jar_files/org.eclipse.jdt.core.compiler.ecj-4.7-201706120950.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/barbecue-1.5-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/cglib-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/commons-dbcp-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/commons-email-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/commons-email-1.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/commons-email-1.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/commons-email-1.5-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/commons-email-1.5-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/groovy-all-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/jasperreports-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/jasperreports-fonts-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/jasperreports-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/jcalendar-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/jcalendar-1.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/jcalendar-1.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/jcommon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/jdt-compiler-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/jfreechart-1.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/KabitaLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/poi-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/poi-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/PLUGIN &amp; LIBRARY IREPORT/PLUGIN &amp; LIBRARY IREPORT/LIBRARY IREPORT/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/jar_files (1)/AbsoluteLayout-RELEASE170.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/mysql-connector-j-8.0.32/mysql-connector-j-8.0.32/mysql-connector-j-8.0.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/org-jdesktop-layout-RELEASE65-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/jasperreports-javaflow.jar/jasperreports-javaflow.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/javafx.media.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/javafx.web.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/openjfx-19.0.2.1_windows-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/FX19/javafx.base.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/FX19/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/FX19/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/FX19/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/FX19/javafx.media.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/FX19/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/FX19/javafx.web.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/FX19/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/barbecue-1.5-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/cglib-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/commons-dbcp-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/commons-email-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/commons-email-1.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/commons-email-1.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/commons-email-1.5-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/commons-email-1.5-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/groovy-all-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/jasperreports-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/jasperreports-6.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/jasperreports-fonts-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/jasperreports-javaflow.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/jasperreports-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/jcalendar-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/jcalendar-1.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/jcalendar-1.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/jcommon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/jdt-compiler-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/jfreechart-1.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/KabitaLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/mysql-connector-j-8.0.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/org.eclipse.jdt.core.compiler.ecj-4.7-201706120950.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/poi-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/poi-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Documents/NetBeansProjects/Java_Project-master/SalonManagementSystem/lib/absolutelayout/AbsoluteLayout.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
